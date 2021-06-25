@@ -1,4 +1,5 @@
 @charset "UTF-8";
+
 .header_all{
   width: 100%;
   background-color: white;
@@ -9,7 +10,7 @@
   padding: 0 20px;
 }
 
-.header_naV ul {
+.header_nav ul {
   width: 100%;
   display: table;
   table-layout: fixed;
